@@ -1,0 +1,20 @@
+{
+  "name": "scope-clousure-hoisting",
+  "version": "1.0.0",
+  "description": "Ejercicio de ejemplo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpovedam/scope-clousure-hoisting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpovedam/scope-clousure-hoisting/issues"
+  },
+  "homepage": "https://github.com/mpovedam/scope-clousure-hoisting#readme"
+}
